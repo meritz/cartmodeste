@@ -1,0 +1,7 @@
+{
+  "name": "cartAddSlider",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
